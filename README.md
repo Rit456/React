@@ -1,6 +1,7 @@
 # React
 
 Array Rendering 
+
 In React, components can be reused multiple times with different data. 
 It is similar to a school identity card where the card design remains the same for every 
 student, but the student's details are different. 
