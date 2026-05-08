@@ -11,3 +11,4 @@ component so that the UI structure stays the same while the content changes dyna
 the standard and most efficient approach is using the map() method. It allows us to 
 dynamically render components from array data, making the code cleaner, reusable, and 
 scalable.” 
+
